@@ -21,6 +21,7 @@
   "homepage": "https://github.com/rafalszemraj/gulp-tasks#readme",
   "dependencies": {
     "browserify": "^11.2.0",
+    "del": "^2.0.2",
     "es6-promise": "^3.0.2",
     "gulp": "^3.9.0",
     "gulp-livereload": "^3.8.0",
