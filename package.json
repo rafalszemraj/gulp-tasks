@@ -24,6 +24,8 @@
     "del": "^2.0.2",
     "es6-promise": "^3.0.2",
     "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-less": "^3.0.3",
     "gulp-livereload": "^3.8.0",
     "gulp-minify-css": "^1.2.1",
     "gulp-rename": "^1.2.2",
@@ -33,9 +35,5 @@
     "lodash": "^3.10.1",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.4.0"
-  },
-  "devDependencies": {
-    "gulp-imagemin": "^2.3.0",
-    "gulp-less": "^3.0.3"
   }
 }
