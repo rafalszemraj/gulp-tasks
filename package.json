@@ -33,5 +33,9 @@
     "lodash": "^3.10.1",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.4.0"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^2.3.0",
+    "gulp-less": "^3.0.3"
   }
 }

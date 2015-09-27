@@ -6,6 +6,8 @@ module.exports = {
     serial          : require('./lib/multi').serial,
     parallel        : require('./lib/multi').parallel,
     uglify          : require('./lib/uglify'),
-    minify          : require('./lib/minify')
+    minify          : require('./lib/minify'),
+    less            : require('./lib/less'),
+    imagemin        : require('./lib/imagemin')
 
 }
