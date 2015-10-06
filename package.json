@@ -22,7 +22,6 @@
   "dependencies": {
     "browserify": "^11.2.0",
     "del": "^2.0.2",
-    "es6-promise": "^3.0.2",
     "gulp": "^3.9.0",
     "gulp-imagemin": "^2.3.0",
     "gulp-less": "^3.0.3",
